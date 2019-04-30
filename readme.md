@@ -5,4 +5,4 @@ ppt和作业:https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
 ## 2.林轩田《机器学习技法》（学习）
 视频：https://www.bilibili.com/video/av36760800<br>
-ppt和作业：https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+笔记：https://redstonewill.com/category/ai-notes/lin-ml-techniques/
